@@ -1,0 +1,6 @@
+{
+  "name": "Shikuran Skills - Digital Skills & Technology Learning Platform",
+  "description": "Learn practical digital skills, computer knowledge, technology tutorials, and guides for beginners, students, and professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
